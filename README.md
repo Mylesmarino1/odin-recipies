@@ -1,0 +1,1 @@
+I am not entirely sure what this project is yet, I am just going through the Odin Open Bootcamp!
